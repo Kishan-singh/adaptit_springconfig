@@ -1,2 +1,4 @@
-foo
-  bar
+foo: foo text
+democlient:
+  message: this is a message
+
